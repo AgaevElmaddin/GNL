@@ -85,5 +85,5 @@ get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`:
 </table>
 
 ## Usage
-1. add `#include "get_next_line.h"` in your project. 
+1. add `#include "get_next_line.h"` in your project or `#include "get_next_line_bonus.h"` if you want to read from different files. You should also add all `*.c` and `*.h` files.
 2. Use it the way you want.
