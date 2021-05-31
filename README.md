@@ -60,6 +60,25 @@ get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`:
 1)  get_next_line should be with a single *static variable*.
 2) capability to manage multiple file descriptor with your get_next_line. For example, if the file descriptors 3, 4 and 5 are accessible for reading, then you can call get_next_line once on 3, once on 4, once again on 3 then once on 5 etc. without losing the reading thread on each of the descriptors.
 
+<img width="152" alt="Screen Shot 2021-05-31 at 3 31 10 PM" src="https://user-images.githubusercontent.com/84783740/120193733-6ccec200-c225-11eb-9325-be99a96f85e1.png">
+<img width="152" alt="Screen Shot 2021-05-31 at 3 31 30 PM" src="https://user-images.githubusercontent.com/84783740/120193742-70624900-c225-11eb-9ac5-73a6a0a9df45.png">
+<img width="152" alt="Screen Shot 2021-05-31 at 3 31 43 PM" src="https://user-images.githubusercontent.com/84783740/120193751-72c4a300-c225-11eb-9e63-87c804cf698b.png">
+<img width="309" alt="Screen Shot 2021-05-31 at 3 28 59 PM" src="https://user-images.githubusercontent.com/84783740/120193797-7d7f3800-c225-11eb-86db-efe80b7d5634.png">
+<img width="813" alt="Screen Shot 2021-05-31 at 3 29 32 PM" src="https://user-images.githubusercontent.com/84783740/120193813-81ab5580-c225-11eb-8867-28dc64e3207b.png">
+
+<table>
+  <tr>
+    <td align="center">File test.txt</td>
+    <td align="center">File test1.txt</td>
+    <td align="center">File test2.txt</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120193733-6ccec200-c225-11eb-9325-be99a96f85e1.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120193742-70624900-c225-11eb-9ac5-73a6a0a9df45.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120193751-72c4a300-c225-11eb-9e63-87c804cf698b.png"></td>
+  </tr>
+</table>
+
 ## Usage
 1. add `#include "get_next_line.h"` in your project. 
 2. Use it the way you want.
