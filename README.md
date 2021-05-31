@@ -43,7 +43,7 @@ result
 <table>
   <tr>
     <td align="center">Reading from a file</td>
-    <td>Reading from the standart input</td>
+    <td align="center">Reading from the standart input</td>
   </tr>
   <tr>
     <td><img  src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png"></td>
@@ -53,8 +53,8 @@ result
 
 <table>
   <tr>
-    <td>Reading from a file</td>
-    <td>Reading from the standart input</td>
+    <td align="center">File test.txt</td>
+    <td align="center">Result</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/84783740/120178739-7a2e8100-c212-11eb-99dd-4d76fb003b09.png"></td>
