@@ -44,7 +44,6 @@ result
   <tr>
     <td>Reading from a file</td>
      <td>file test.txt</td>
-      <td>result</td>
   </tr>
   <tr>
     <td><img width="330" src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png"></td>
