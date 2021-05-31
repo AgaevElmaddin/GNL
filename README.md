@@ -20,6 +20,7 @@ The get_next_line fuction should work well when it reads from a file and when it
 get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`: 
 
 `gcc -Wall -Wextra -Werror -D BUFFER_SIZE=32 get_next_line.c get_next_line_utils.c`
+
 `BUFFER_SIZE=xx` means that you are able to read from file `xx` bytes.
 
 **Examples:**
