@@ -23,6 +23,7 @@ get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`:
 
 **Examples:**
 *Reading from a file*
+
 <img width="330" alt="Screen Shot 2021-05-31 at 12 14 59 PM" src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png">
 <img width="617" alt="Screen Shot 2021-05-31 at 12 13 18 PM" src="https://user-images.githubusercontent.com/84783740/120178739-7a2e8100-c212-11eb-99dd-4d76fb003b09.png">
 <img width="756" alt="Screen Shot 2021-05-31 at 12 12 42 PM" src="https://user-images.githubusercontent.com/84783740/120178754-7ef33500-c212-11eb-93c5-e7403105ccdf.png">
