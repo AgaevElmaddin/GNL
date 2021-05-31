@@ -62,6 +62,15 @@ result
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">Result: standart input</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120188059-4fe2c080-c21e-11eb-90f2-13d6b5188c03.png"></td>
+  </tr>
+</table>
+
 ## Bonus part
 1)  get_next_line should be with a single *static variable*.
 2) capability to manage multiple file descriptor with your get_next_line. For example, if the file descriptors 3, 4 and 5 are accessible for reading, then you can call get_next_line once on 3, once on 4, once again on 3 then once on 5 etc. without losing the reading thread on each of the descriptors.
