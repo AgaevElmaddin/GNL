@@ -18,10 +18,12 @@ Calling your function get_next_line in a loop will then allow you to read the te
 The get_next_line fuction should work well when it reads from a file and when it reads from the standart input.
 
 get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`: 
+
 `gcc -Wall -Wextra -Werror -D BUFFER_SIZE=32 get_next_line.c get_next_line_utils.c`
 `BUFFER_SIZE=xx` means that you are able to read from file `xx` bytes.
 
 **Examples:**
+
 *Reading from a file*
 
 <img width="330" alt="Screen Shot 2021-05-31 at 12 14 59 PM" src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png">
