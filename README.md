@@ -37,6 +37,9 @@ result
 
 <img width="756" alt="Screen Shot 2021-05-31 at 12 12 42 PM" src="https://user-images.githubusercontent.com/84783740/120178754-7ef33500-c212-11eb-93c5-e7403105ccdf.png">
 
+<img width="277" alt="Screen Shot 2021-05-31 at 2 03 12 PM" src="https://user-images.githubusercontent.com/84783740/120188052-4b1e0c80-c21e-11eb-8e67-b4f2a83c9553.png">
+<img width="747" alt="Screen Shot 2021-05-31 at 2 02 41 PM" src="https://user-images.githubusercontent.com/84783740/120188059-4fe2c080-c21e-11eb-90f2-13d6b5188c03.png">
+
 <table>
   <tr>
     <td>Reading from a file</td>
