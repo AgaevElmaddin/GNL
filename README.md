@@ -31,7 +31,7 @@ get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`:
 
 file test.txt
 
-<img width="617" alt="Screen Shot 2021-05-31 at 12 13 18 PM" src="https://user-images.githubusercontent.com/84783740/120178739-7a2e8100-c212-11eb-99dd-4d76fb003b09.png">
+<img width="330" alt="Screen Shot 2021-05-31 at 12 13 18 PM" src="https://user-images.githubusercontent.com/84783740/120178739-7a2e8100-c212-11eb-99dd-4d76fb003b09.png">
 
 result
 
