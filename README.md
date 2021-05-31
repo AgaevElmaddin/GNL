@@ -37,6 +37,19 @@ result
 
 <img width="756" alt="Screen Shot 2021-05-31 at 12 12 42 PM" src="https://user-images.githubusercontent.com/84783740/120178754-7ef33500-c212-11eb-93c5-e7403105ccdf.png">
 
+<table>
+  <tr>
+    <td>Reading from a file</td>
+     <td>file test.txt</td>
+      <td>result</td>
+  </tr>
+  <tr>
+    <td><img width="270" height = 270 src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png"></td>
+    <td><img width="270" height = 270 src="https://user-images.githubusercontent.com/84783740/120178739-7a2e8100-c212-11eb-99dd-4d76fb003b09.png"></td>
+    <td><img width="270" height = 270 src="https://user-images.githubusercontent.com/84783740/120178754-7ef33500-c212-11eb-93c5-e7403105ccdf.png"></td>
+  </tr>
+</table>
+
 ## Bonus part
 1)  get_next_line should be with a single *static variable*.
 2) capability to manage multiple file descriptor with your get_next_line. For example, if the file descriptors 3, 4 and 5 are accessible for reading, then you can call get_next_line once on 3, once on 4, once again on 3 then once on 5 etc. without losing the reading thread on each of the descriptors.
