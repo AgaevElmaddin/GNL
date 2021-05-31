@@ -79,6 +79,17 @@ get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">Reading from different files</td>
+    <td align="center">Result</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120193797-7d7f3800-c225-11eb-86db-efe80b7d5634.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120193813-81ab5580-c225-11eb-8867-28dc64e3207b.png"></td>
+  </tr>
+</table>
+
 ## Usage
 1. add `#include "get_next_line.h"` in your project. 
 2. Use it the way you want.
