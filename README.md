@@ -44,9 +44,9 @@ result
       <td>result</td>
   </tr>
   <tr>
-    <td><img width="270" height = 270 src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png"></td>
-    <td><img width="300" height = 270 src="https://user-images.githubusercontent.com/84783740/120178739-7a2e8100-c212-11eb-99dd-4d76fb003b09.png"></td>
-    <td><img width="500" height = 270 src="https://user-images.githubusercontent.com/84783740/120178754-7ef33500-c212-11eb-93c5-e7403105ccdf.png"></td>
+    <td><img width="270" height = 330 src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png"></td>
+    <td><img width="400" height = 330 src="https://user-images.githubusercontent.com/84783740/120178739-7a2e8100-c212-11eb-99dd-4d76fb003b09.png"></td>
+    <td><img width="400" height = 330 src="https://user-images.githubusercontent.com/84783740/120178754-7ef33500-c212-11eb-93c5-e7403105ccdf.png"></td>
   </tr>
 </table>
 
