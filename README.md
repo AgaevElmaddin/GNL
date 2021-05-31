@@ -46,8 +46,8 @@ result
      <td>file test.txt</td>
   </tr>
   <tr>
-    <td><img width="330" src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png"></td>
-    <td><img width="277" src="https://user-images.githubusercontent.com/84783740/120188052-4b1e0c80-c21e-11eb-8e67-b4f2a83c9553.png"></td>
+    <td><img width="530" src="https://user-images.githubusercontent.com/84783740/120178708-73077300-c212-11eb-8761-4b6bcce7b114.png"></td>
+    <td><img width="477" src="https://user-images.githubusercontent.com/84783740/120188052-4b1e0c80-c21e-11eb-8e67-b4f2a83c9553.png"></td>
   </tr>
 </table>
 
