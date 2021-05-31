@@ -42,7 +42,7 @@ result
 
 <table>
   <tr>
-    <td> align = "center">Reading from a file</td>
+    <td>Reading from a file</td>
     <td>Reading from the standart input</td>
   </tr>
   <tr>
