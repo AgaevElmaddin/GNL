@@ -86,4 +86,4 @@ get_next_line program can compile with the flag `-D BUFFER_SIZE=xx`:
 
 ## Usage
 1. add `#include "get_next_line.h"` in your project or `#include "get_next_line_bonus.h"` if you want to read from different files. You need to add all `*.c` and `*.h` as well.
-2. Use it the way you want.
+2. Use it anyway you want.
